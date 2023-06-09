@@ -2,7 +2,7 @@
   "name": "church-map",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://anapitalai.github.io/unitech-point-cloud",
+  "homepage": "https://anapitalai.github.io/un-point-cloud",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",

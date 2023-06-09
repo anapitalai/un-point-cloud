@@ -9,14 +9,15 @@ import { useRef, useState } from "react";
 import Loading from "./Loading";
 
 const CESIUM_CONFIG = {
-  assetId: 1691493,
-  tilesetUrl: "https://assets.ion.cesium.com/1691493/tileset.json",
+  assetId: 432728,
+  tilesetUrl: "https://assets.ion.cesium.com/432728/tileset.json",
   token: import.meta.env.VITE_CESIUM,
 };
 
+
 const INITIAL_VIEW_STATE = {
-  longitude: -48.5495,
-  latitude: -27.5969,
+  longitude: 146.99350838486077,
+  latitude: -6.673466970329599,
   zoom: 9,
 };
 
